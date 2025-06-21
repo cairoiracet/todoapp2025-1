@@ -1,6 +1,6 @@
-# To-Do App React Native
+#  Tarefa: Criando e Utilizando Componentes em React
 
-Aplicativo de lista de tarefas simples desenvolvido em React Native com Expo.
+Aplicativo de lista de tarefas simples
 
 ## Funcionalidades
 
